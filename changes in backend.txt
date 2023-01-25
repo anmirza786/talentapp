@@ -1,0 +1,12 @@
+disciplineid 
+added in occupationserializer
+occupationid 
+added in speciality serializer
+speciality 
+added in subspeciality serializer
+
+
+resume_id
+added in requisitionresume serializer
+resume_id
+added in resumeheader serializer

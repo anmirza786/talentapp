@@ -1,0 +1,19 @@
+.createrequistion_body{
+    margin-top: 50px;
+    padding: 10px;
+    /* background-color: rgb(230, 248, 248); */
+    border-radius: 9px;
+    padding-bottom: 30px;
+}
+
+small{
+    color:yellowgreen;
+    padding-left:10px
+}
+
+
+
+.btncreaterequisition:hover{
+    color: white;
+    
+}

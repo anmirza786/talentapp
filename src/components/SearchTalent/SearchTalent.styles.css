@@ -1,0 +1,11 @@
+
+.Searchtalent_body {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    /* background-color: rgb(230, 248, 248); */
+    border-radius: 9px;
+    padding-bottom: 30px;
+  }

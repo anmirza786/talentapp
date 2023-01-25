@@ -1,0 +1,104 @@
+.sidebar {
+  width: 260px;
+  flex-shrink: 0;
+
+  height: 100%;
+  overflow: auto;
+}
+.css-12i7wg6-MuiPaper-root-MuiDrawer-paper {
+  background-color: #1a202e !important;
+  color: white !important;
+}
+.css-1l8j5k8 {
+  background-color: #1a202e !important;
+  color: white !important;
+}
+.css-4t3x6l-MuiPaper-root-MuiDrawer-paper {
+  background-color: #1a202e !important;
+  color: white !important;
+}
+.css-1n83m2p-MuiPaper-root-MuiAppBar-root {
+  background-color: #fff !important;
+}
+.css-qklaqr-MuiListItemIcon-root {
+  width: 100% !important;
+}
+.css-pdeecc {
+  background-color: #fff !important;
+  width: 100% !important;
+}
+.css-k8veht .MuiDrawer-paper {
+  width: auto !important;
+}
+.sidebar-item {
+  padding: 5px 7px;
+  display: block;
+  transition: background-color 0.15s;
+  border-radius: 5px;
+}
+
+.sidebar-title {
+  display: flex;
+  width: 100%;
+  font-size: 1.2em;
+  justify-content: space-between;
+}
+.css-wf16b5 {
+  background-color: #1a202e !important;
+  color: white !important;
+}
+.css-1f8bwsm {
+  width: 100%;
+}
+.sidebar-title span i {
+  display: inline-block;
+  width: 1.5em;
+}
+.sidebar-title .toggle-btn {
+  cursor: pointer;
+  color: inherit;
+  transition: transform 0.3s;
+}
+.sidebar-item.open > .sidebar-title .toggle-btn {
+  transform: rotate(180deg);
+}
+.sidebar-content {
+  padding-top: 0.25em;
+  height: 0;
+  overflow: hidden;
+  cursor: pointer;
+  transition: height 0.15s;
+}
+.sidebar-content-open {
+  height: auto;
+  transition: transform 0.3s;
+  cursor: pointer;
+  margin-left: 20px;
+  padding: 10px;
+  padding-left: 20px;
+}
+.sidebar-content-open:hover {
+  /* background-color: rgba(255, 255, 255, .1); */
+  padding: 10px;
+  padding-left: 20px;
+}
+.css-1n83m2p-MuiPaper-root-MuiAppBar-root {
+  width: 100% !important;
+}
+
+.sidebar-item.plain {
+  color: #fff;
+  text-decoration: none;
+}
+.sidebar-item.plain:hover {
+  text-decoration: underline;
+}
+.sidebar-item.plain i {
+  display: inline-block;
+  width: 1.7em;
+}
+
+a.sidebar_search {
+  text-decoration: none;
+  color: white;
+}

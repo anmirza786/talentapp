@@ -1,0 +1,50 @@
+.levelfilter_body {
+  margin-top: 50px;
+}
+.level_item {
+  background-color: rgb(230, 248, 248);
+  padding: 10px;
+  height: auto;
+  border-radius: 8px;
+  margin-top: 20px;
+
+  box-shadow: 5px 10px 18px #888888;
+}
+
+.level_item2 {
+  background-color: rgb(230, 248, 248);
+  padding: 10px;
+  height: auto;
+  border-radius: 8px;
+  margin-top: 20px;
+
+  box-shadow: 5px 10px 18px #888888;
+}
+.sidebar {
+  width: 100% !important;
+}
+
+.css-cveggr-MuiListItemIcon-root {
+  width: 100% !important;
+}
+
+.flex {
+  display: flex;
+}
+.direction-column {
+  flex-direction: row;
+}
+.sidebar-content > button {
+  background: none;
+}
+.sidebar-content > button:hover {
+  background: #888888;
+}
+@media screen and (min-width: 300px) and (max-width: 768px) {
+  .direction-column {
+    flex-direction: column;
+  }
+  .col-3 {
+    width: auto;
+  }
+}

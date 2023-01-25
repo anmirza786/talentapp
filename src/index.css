@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 14px !important;
+}
+h4 {
+  font-size: 17px !important;
+}
+.css-gap32e .MuiDrawer-paper {
+  width: auto !important;
+}
+@media screen and (min-width: 700px){.css-1097p6o {
+  width: 200px !important;  
+}}
+.css-1097p6o
+.css-cun7gh-MuiDrawer-docked .MuiDrawer-paper {
+  width: auto !important;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
